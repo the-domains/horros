@@ -1,0 +1,28 @@
+name: horros
+favicon: null
+layout_spectrum: 0.18979627965018153
+typography_spectrum: 0.14114998560398817
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#A690A4'
+    - '#B68F9D'
+    - '#C8ACAB'
+    - '#FBB9BF'
+    - '#E376B7'
+  brandStrength: 0.17356260330416262
+  lightness: 0.3818536694161594
+  saturation: 0.6152989356778562
+  rhythmicContrast: 0.39950144244357944
+purpose: []
