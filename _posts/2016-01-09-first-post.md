@@ -1,23 +1,23 @@
 ---
 inFeed: true
 hasPage: true
-inNav: false
+inNav: true
 inLanguage: null
-starred: true
+starred: false
 keywords: []
-description: ''
-datePublished: '2016-01-09T08:43:44.026Z'
-dateModified: '2016-01-09T08:43:26.663Z'
+description: just testing
+datePublished: '2016-01-09T08:47:08.594Z'
+dateModified: '2016-01-09T08:47:00.015Z'
 title: First post
 author: []
+sourcePath: _posts/2016-01-09-first-post.md
+published: true
 authors: []
 publisher:
   name: null
   domain: null
   url: null
   favicon: null
-sourcePath: _posts/2016-01-09-first-post.md
-published: true
 url: first-post/index.html
 _type: Article
 
